@@ -1,4 +1,4 @@
-##Cloudflare Warp Loop
+## Cloudflare Warp Loop
 
 Cloudflare is:
 - Highly centralized, very popular, and built on _trust_.
@@ -8,6 +8,6 @@ Cloudflare is:
 
 With the introduction of their "free" proxy, Warp, they can be on your line even when you don't opt-in as the website owner. But now you have a chance to impersonate them; the tables have turned.
 
-Make your Cloudflare Warp users fill out pointless reCAPTCHAs and give them some confusing Cloudflare branded messages with just a tiny Haproxy.
+__Make your Cloudflare Warp users fill out pointless reCAPTCHAs and give them some confusing Cloudflare branded messages with just a tiny Haproxy.__
 
 ![error page example](https://raw.githubusercontent.com/virtualsnow/cloudflare-warp-loop/master/sample-page.png)
